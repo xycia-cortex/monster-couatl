@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: monster-couatl
+  x-cortex-tag: monster-couatl
+  x-cortex-custom-metadata:
+    alignment: chaotic-neutral
+    type: celestial
+    challenge_rating: 4
+    legendary: false
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-couatl
+      alias: github-token-test
